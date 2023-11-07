@@ -21,6 +21,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="PCController.h">
+    <ClInclude Include="전역변수.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
