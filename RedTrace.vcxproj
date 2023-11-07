@@ -130,10 +130,8 @@
     <ClCompile Include="main.c" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="NPCCONTROL.h" />
-  </ItemGroup>
-  <ItemGroup>
-    <ResourceCompile Include="RedTrace.rc" />
+    <ClInclude Include="PCController.h" />
+    <ClInclude Include="전역변수.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
