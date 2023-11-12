@@ -130,6 +130,9 @@
     <ClCompile Include="main.c" />
   </ItemGroup>
   <ItemGroup>
+
+    <ClInclude Include="commonModule.h" />
+
     <ClInclude Include="PCController.h" />
     <ClInclude Include="전역변수.h" />
   </ItemGroup>

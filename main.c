@@ -1,7 +1,10 @@
 
+#include<stdio.h>
+
 #include <Windows.h>
 
 int main() {
+
 
 	printf("I want to be a rich");
 
